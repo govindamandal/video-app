@@ -12,6 +12,7 @@ client/npm-debug.log*
 client/yarn-debug.log*
 client/yarn-error.log*
 client/pnpm-debug.log*
+client/.env
 
 # Editor directories and files
 .idea
@@ -39,3 +40,5 @@ server/npm-debug.log*
 server/yarn-debug.log*
 server/yarn-error.log*
 server/pnpm-debug.log*
+
+server/.env
